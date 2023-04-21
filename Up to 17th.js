@@ -1,4 +1,5 @@
 const url = 'https://script.google.com/macros/s/AKfycbyWybcCs309UkSlQe3EOvbQBwjvrYK2yFf5F4pl_hp03EK4ovUGQjq9fPejs5HCD3vRzw/exec';
+
 const output = document.querySelector('.output');
 const game = { question: 0, total: 0, data: [], score: 0 };
 
